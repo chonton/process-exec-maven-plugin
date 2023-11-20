@@ -44,7 +44,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <!-- use org.sonatype.plugins:nexus-staging-maven-plugin instead of org.apache.maven.plugins:maven-deploy-plugin -->
     <maven.deploy.skip>true</maven.deploy.skip>
-    <maven.model.version>3.0</maven.model.version>
+    <maven.model.version>3.10.1</maven.model.version>
     <!-- use com.github.github:site-maven-plugin instead of org.apache.maven.plugins:maven-site-plugin -->
     <maven.site.deploy.skip>true</maven.site.deploy.skip>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
